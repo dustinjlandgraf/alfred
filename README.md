@@ -1,6 +1,9 @@
 # alfred
 My Alfred Workflows
 
+# Check AppleCare Coverage
+Copy a serial number, invoke the keyword in Alfred, and it will open the coverage check website with the serial number populated in the correct place.
+
 # IP Info 
 Using the keyword "ip" will throw all of your network info to large type on your screen.
 This includes your local address, your default gateway, the DNS servers you are using, and your current DHCP server.
